@@ -33,7 +33,7 @@ Kousar Kousar, Aqsa Shabbir, and Utku Oktay
 
 - Clone the repository:
    ```bash
-   cd CS554_Project
+   cd Face-Verification-for-Passport-Ownership
 ---
 
 ## Installation
