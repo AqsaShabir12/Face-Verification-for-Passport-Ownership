@@ -1,4 +1,3 @@
-# CS554_Project
 # Face Verification for Passport Ownership
 >This repository contains the implementation of an automated system for verifying passport ownership by analyzing and matching a claimant's face with the photograph on their passport personalization page. The system employs the Viola-Jones algorithm for face detection and uses Eigenfaces with Principal Component Analysis (PCA) for feature extraction and dimensionality reduction.
 
